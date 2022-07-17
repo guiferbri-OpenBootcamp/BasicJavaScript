@@ -1,0 +1,16 @@
+{
+  "name": "t1ej1",
+  "version": "1.0.0",
+  "description": "Proyecto node para el ejercicio 1 del tema 1 del curso de JavaScript básico",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "javascriptbasico"
+  ],
+  "author": "Guiomar Bobadilla",
+  "license": "ISC"
+}
