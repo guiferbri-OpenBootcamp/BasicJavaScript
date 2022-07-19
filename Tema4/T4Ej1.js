@@ -1,0 +1,10 @@
+var firstname = "Guiomar";
+var lastname = "Bobadilla";
+var student = firstname.concat(" ",lastname);
+var studentUpper = student.toUpperCase();
+var studentLower = student.toLowerCase();
+var studentLength = student.length;
+var firstLetterFirstname = firstname.charAt(0);
+var lastLetterLastname = lastname.charAt(lastname.length-1);
+var studentNoBlankSpace = student.replace(/ /g,"");
+var studentContainsName = student.includes(firstname);
